@@ -6,9 +6,9 @@ An automated workflow designed to streamline student inquiries, categorize reque
 Workflow Diagram
 ---
 
-<img src="AI Automation" alt="n8n Project" width="700" height="800" />
+<img src="AI Automation Flow.png" alt="n8n Project" width="700" height="800" />
 
-<img src="Lead Automation" alt="n8n Project" width="700" height="800" />
+<img src="Lead Automation.png" alt="n8n Project" width="700" height="800" />
 
 Features
 ---
