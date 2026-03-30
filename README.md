@@ -7,7 +7,7 @@ Workflow Diagram
 ---
 **AI Student Inquiry Automation Flow**
 
-<img src="https://github.com/parashchand10/Student-Inquiry-Automation-n8n/blob/main/AI%20Automation%20Flow.png" height="1500" width="1000">
+<img src="https://github.com/parashchand10/Student-Inquiry-Automation-n8n/blob/main/AI%20Automation%20Flow.png" width="100%">>
 
 **Lead Scoring & Email Automation Flow**
 
