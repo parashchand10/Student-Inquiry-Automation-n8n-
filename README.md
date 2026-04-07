@@ -1,5 +1,5 @@
 
-# Intelligent Lead Classification System
+# Intelligent Lead Classification System - n8n
 
 ---
 An automated workflow designed to streamline student inquiries, categorize requests using AI, and sync data across CRM and communication platforms. This project leverages n8n to eliminate manual data entry and ensure faster response times for prospective students.
